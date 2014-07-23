@@ -1,4 +1,4 @@
 r3.js
 =====
 
-r3.js = react + d3 basic chart examples
+r3.js = react + d3 basic chart examples in AMD module system
